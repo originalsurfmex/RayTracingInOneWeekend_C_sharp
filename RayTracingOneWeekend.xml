@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RayTracingOneWeekend</name>
+    </assembly>
+    <members>
+        <member name="M:RayTracingOneWeekend.Program.Main(System.String[])">
+            <summary>
+            Ray Tracing in One Weekend
+            To Run in Powershell type this to avoid BOM errors:
+            > main.exe | set-content image.ppm -encoding String
+            </summary>
+            <param name="args"></param>
+        </member>
+    </members>
+</doc>
